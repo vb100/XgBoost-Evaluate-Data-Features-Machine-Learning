@@ -1,5 +1,5 @@
 # -- coding utf-8 --
-# Full instructions at httpscambridgespark.comcontenttutorialsgetting-started-with-xgboostindex.html
+# XGBoost in simple way. Can be improved by Gradient Descent, setuping learning rate, etc.
 # Date 20180620
 
 #------------------------------------------------------------------------------
